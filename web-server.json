@@ -1,0 +1,7 @@
+[
+    {
+        "cpu": 100,
+        "memory": 1024,
+        "image": "docker.com/apache:1.0"
+    }
+]
